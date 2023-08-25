@@ -80,6 +80,7 @@ React Folder Structure
 |    └── main.jsx
 |
 ├── .gitignore
+├── index.html
 ├── .env
 ├── package-lock.json
 ├── package.json
