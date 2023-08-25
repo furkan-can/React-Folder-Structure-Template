@@ -110,3 +110,12 @@ React Folder Structure
 - `.gitignore`
 - `package.json`
 - `.vite.config.js`
+
+## How to Use
+1. Clone this repository to your local machine.
+2. Customize the components, styles, and logic to match your application's requirements.
+3. Leverage the provided structure to maintain a clean codebase as your project scales.
+4. Utilize the predefined utilities, routing, and state management for a smoother development experience.
+
+
+Feel free to explore the various directories and components to understand how everything fits together. This template provides a solid foundation, allowing you to focus on building features rather than setting up the project structure from scratch.
